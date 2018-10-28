@@ -1,0 +1,27 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "My Walkthrough in node js through this app",
+  "main": "app.js",
+  "scripts": {
+    "test": "Hello World!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayquel/NodeJSTraining.git"
+  },
+  "keywords": [
+    "weather",
+    "temperature",
+    "degress"
+  ],
+  "author": "jayq",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "yargs": "^12.0.2"
+  }
+}
